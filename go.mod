@@ -1,4 +1,4 @@
-module utils
+module github.com/nghtf/utils
 
 go 1.22.3
 

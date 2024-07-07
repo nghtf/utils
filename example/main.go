@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"utils"
+
+	"github.com/nghtf/utils"
 )
 
 func main() {
